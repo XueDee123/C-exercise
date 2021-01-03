@@ -1,0 +1,5 @@
+﻿  水仙花数练习.cpp
+E:\代码管理\C-exercise\day01\水仙花数练习\水仙花数练习\水仙花数练习.cpp(28,22): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\代码管理\C-exercise\day01\水仙花数练习\水仙花数练习\水仙花数练习.cpp(29,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\代码管理\C-exercise\day01\水仙花数练习\水仙花数练习\水仙花数练习.cpp(30,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  水仙花数练习.vcxproj -> E:\代码管理\C-exercise\day01\水仙花数练习\Debug\水仙花数练习.exe
