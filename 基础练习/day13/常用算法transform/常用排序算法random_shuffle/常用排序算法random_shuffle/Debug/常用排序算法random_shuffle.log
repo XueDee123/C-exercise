@@ -1,0 +1,3 @@
+﻿  常用排序算法random_shuffle.cpp
+E:\代码管理\C-exercise\基础练习\day13\常用算法transform\常用排序算法random_shuffle\常用排序算法random_shuffle\常用排序算法random_shuffle.cpp(27,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  常用排序算法random_shuffle.vcxproj -> E:\代码管理\C-exercise\基础练习\day13\常用算法transform\常用排序算法random_shuffle\Debug\常用排序算法random_shuffle.exe
